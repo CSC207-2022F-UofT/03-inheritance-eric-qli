@@ -47,15 +47,15 @@ public abstract class Bag {
      *           - getCapacity
      */
     public String getColor(){
-        return color;
+        return this.color;
     }
 
     public int getNumberOfContents(){
-        return numberOfContents;
+        return this.numberOfContents;
     }
 
     public int getCapacity(){
-        return capacity;
+        return this.capacity;
     }
 
 
